@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512330044420",
+    "firebase_url": "https://smart-order-78c8b.firebaseio.com",
+    "project_id": "smart-order-78c8b",
+    "storage_bucket": "smart-order-78c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512330044420:android:505684324da73a73e41151",
+        "android_client_info": {
+          "package_name": "com.example.kioskremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512330044420-f0mn1ljquigsg4okfrbf918h66mmonnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9NpO9LjLqmeXymh7rREq03NBY7Ic-eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512330044420-f0mn1ljquigsg4okfrbf918h66mmonnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
